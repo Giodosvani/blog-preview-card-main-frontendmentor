@@ -9,13 +9,6 @@
     color: var(--Gray950)
 }
 
-.attribution {
-    width: 100%;
-    position: fixed;
-    bottom: 0px;
-    font-size: 12px;
-}
-
 :root {
 --back-yellow: #f4d04e;
 --Gray500: #6b6b6b;

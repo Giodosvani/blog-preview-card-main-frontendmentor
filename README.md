@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](https://your-solution-url.com)
+- Solution URL: [Click Here](https://https://www.frontendmentor.io/solutions/responsive-preview-card-with-hover-effects-BUml7zu7DI)
 - Live Site URL: [Click Here](https://giodosvani.github.io/blog-preview-card-main-frontendmentor/)
 
 ## My process
